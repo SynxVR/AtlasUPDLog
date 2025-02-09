@@ -11,13 +11,13 @@ body {
     border-radius: 10px;
     padding: 20px;
     margin: 50px auto;
-    max-width: 600px;
+    max-width: 700px;
     box-shadow: 0 0 20px rgba(0, 123, 255, 0.8);
     color: #2b91ff;
 }
 
 h1 {
-    color: #007bff;
+    color: #006aff;
     font-size: 28px;
     text-align: center;
     margin: 0;
@@ -26,5 +26,18 @@ h1 {
 p {
     font-size: 16px;
     text-align: center;
-    color: #2b91ff;
+    color: #5cabff;
+}
+
+.separator {
+    color: rgb(0, 123, 255);
+    font-weight: bold;
+    text-align: center;
+}
+
+.credits {
+    color: rgb(150, 150, 150);
+    font-size: 12px;
+    text-align: center;
+    margin-top: 50px;
 }
